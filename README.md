@@ -136,7 +136,12 @@ git clone https://github.com/yourusername/chameleon-toy.git
 
 ## 📸 Demo
 
+---
 
+## 3D model
+
+![image alt](https://github.com/Amd-Sulaiman/Chameleon-Live-Color-Changing-Toy/blob/4839fe0ab845f29d465c3162c471a30c0adcec69/images/1777965368039.jpg)
+![image alt](https://github.com/Amd-Sulaiman/Chameleon-Live-Color-Changing-Toy/blob/4839fe0ab845f29d465c3162c471a30c0adcec69/images/1777965533679.jpg)
 
 ---
 
